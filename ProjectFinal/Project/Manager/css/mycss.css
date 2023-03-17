@@ -1,0 +1,106 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  font-family: Arial;
+  padding: 10px;
+  background-image: url("../image/manager.png");
+}
+
+div.frame
+{
+  border-bottom: double;
+  padding: 10px;
+}
+
+/* Header/Blog Title */
+.header 
+{
+  color: rgb(240, 230, 239);
+  text-decoration: underline;
+  padding: 30px;
+  text-align: left;
+}
+
+.button
+{
+  color: black;
+  background: blue;
+}
+
+.submit{
+  background-color: rgb(122, 139, 247);
+  color: black;
+}
+.reset{
+  background-color: rgb(122, 139, 247);
+  color: black;
+}
+.header h1 {
+  font-size: 30px;
+}
+.header h2 {
+  color: rgb(62, 224, 116);
+}
+
+div.sticky 
+{
+  position: sticky;
+  margin: auto;
+  width: 50%;
+  padding: auto;
+  margin: auto;
+  text-align: center;
+}
+/* Style the top navigation bar */
+.topnav 
+{
+  margin: auto;
+  width: 50%;
+  border: 2px solid maroon;
+  padding: 5px 20px;
+  overflow: hidden;
+  background-color: rgb(30, 8, 51);
+  text-align: center;
+}
+/* Style the topnav links */
+.topnav a 
+{
+  display: flex;
+  justify-content: center;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 40px 60px;
+  text-decoration: none;
+}
+
+/* Change color on hover */
+.topnav a:hover {
+  background-color: skyblue;
+  color: black;
+}
+
+div.fixed {
+  position: fixed;
+  bottom: 0;
+  right: 0;
+  width: 300px;
+  border: 3px solid #73AD21;
+}
+
+/* Middle column */
+div.middlecolumn {
+  position: relative;
+  left: 25%;
+  float: center;
+  width: 50%;
+}
+
+.registrationBox {
+  background-color: rgb(184, 184, 184);
+  border-left: 15px solid rgb(67, 166, 205);
+  padding: 4px;
+  font-size: 10px;
+ 
+}

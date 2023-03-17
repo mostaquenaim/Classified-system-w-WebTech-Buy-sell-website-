@@ -1,0 +1,11 @@
+* {
+    box-sizing: border-box;
+  }
+  
+  body{
+    /* font-family: Arial; */
+    padding: 10px;
+    
+    
+    background-color: rgb(186,210,212);
+}

@@ -1,0 +1,64 @@
+* {
+    box-sizing: border-box;
+  }
+  
+  body{
+    /* font-family: Arial; */
+    padding: 10px;
+    
+    
+    background-color: rgb(186,210,212);
+}
+div.bg{
+    background-image: url("../image/Buyer-Registration.png");
+}
+td{
+    background-color: rgb(251,239,103);
+    font-size: 150%;
+    font: italic;
+}
+button{
+    color: whitesmoke;
+    background-color: rgb(0,139,188);
+    width: 100px;
+    box-shadow: 1px 1px black;
+    border-radius: 3px;
+}
+  div.sticky{
+    position: sticky;
+    top: 0;
+    padding: 0;
+    border: 2px solid white;
+    
+}
+.topnav a{
+    background-color:white;
+    float: left;
+    display: block;
+    color: blue;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+a.delete{
+  font-size: large;
+  background-color: red;
+  color: white;
+}
+
+
+
+#write
+  {
+    background-color: red;
+    color: white;
+    font-size: xx-large;
+  }
+  label{
+    background-color: red;
+    color: white;
+  }
+  h1 {
+    text-shadow: 0 0 3px #FF0000, 0 0 5px #0000FF;
+}

@@ -1,0 +1,113 @@
+
+* {
+  box-sizing: border-box;
+}
+
+body 
+{
+  padding: 5px;
+}
+body form
+{
+  margin-top: 20px;
+  margin-left: 25%;
+  margin-right: 25%;
+}
+form 
+{
+  
+  background-color: rgb(93, 196, 162);
+  padding: 60px 100px;
+  box-shadow: 0px 5px 10px black;
+}
+
+#nameerror
+{
+  background-color: red;
+  color: white;
+}
+div.nameerror
+{
+  position: relative;
+  top: 10px;
+}
+div.error
+{
+  position:absolute;
+  left: 305px;
+  top: 309px;
+}
+
+.button
+{
+  color: black;
+}
+
+.submit
+{
+  background-color: rgb(1,141,194);
+  color: black;
+  border-radius: 3px;
+  margin: 4px 2px;
+  padding: 2px 30px;
+}
+
+.reset
+{
+  background-color: rgb(1,141,194);
+  color: black;
+  border-radius: 3px;
+  margin: 4px 2px;
+  padding: 2px 30px;
+}
+.header 
+{
+  color: black;
+  padding: 30px;
+  text-align: left;
+  background: rgb(204,254,253);
+}
+.header h1
+{
+  font-size: 30px;
+}
+
+.header h2
+{
+  color: rgb(4,21,183);
+}
+
+div.line
+{
+  padding-top: 10px;
+  border-bottom: double;
+}
+
+div.sticky
+{
+  position: sticky;
+  top: 0;
+  padding: 0;
+  border: 2px solid rgb(64,41,85);
+}
+
+.submit
+{
+  background-color: #4CAF50;
+  color: black;
+}
+.reset
+{
+  background-color: #a41212;
+  color: black;
+}
+.back
+{
+  background-color: #ffffff;
+  color: black;
+}
+.button:hover
+{
+  background-color: black;
+  color: white;
+}

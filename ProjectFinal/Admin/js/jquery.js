@@ -1,0 +1,22 @@
+$(document).ready(function(){
+    $("#flip").click(function()
+    {
+      $("#panel").slideDown("slow");
+    });
+    $("#panel").click(function()
+    {
+      $("#panel").slideUp("slow");
+    });
+  });
+
+  $(document).ready(function()
+  {
+    $("#flip_2").click(function()
+    {
+      $("#panel_2").slideDown(3000);
+    });
+    $("#panel_2").click(function()
+    {
+      $("#panel_2").slideUp("fast");
+    });
+  });

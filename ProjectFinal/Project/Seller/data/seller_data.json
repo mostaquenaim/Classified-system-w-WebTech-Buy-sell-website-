@@ -1,0 +1,123 @@
+[
+    {
+        "fname: ": "Ahnaf",
+        "lname: ": "Ahmed",
+        "uname: ": "AhnafAhmed",
+        "mobile: ": null,
+        "NID: ": "1111111111",
+        "email: ": "ahnaf.ahmed.42173@gmail.com",
+        "address: ": "bashundhara R\/A",
+        "dob:": "2022-06-01",
+        "password: ": null
+    },
+    {
+        "fname: ": "Ahnaf",
+        "lname: ": "Ahmed",
+        "uname: ": "AhnafAhmed",
+        "mobile: ": null,
+        "NID: ": "1111111111",
+        "email: ": "ahnaf.ahmed.42173@gmail.com",
+        "address: ": "bashundhara R\/A",
+        "dob:": "2022-06-01",
+        "password: ": null
+    },
+    {
+        "fname: ": "",
+        "lname: ": "",
+        "uname: ": "",
+        "mobile: ": null,
+        "NID: ": "",
+        "email: ": "",
+        "address: ": "",
+        "dob:": "",
+        "password: ": null
+    },
+    {
+        "fname: ": "",
+        "lname: ": "",
+        "uname: ": "",
+        "mobno: ": "",
+        "NID: ": "",
+        "email: ": "",
+        "address: ": "",
+        "dob:": "",
+        "pass: ": ""
+    },
+    {
+        "fname: ": "Ahnaf",
+        "lname: ": "Ahmed",
+        "uname: ": "AhnafAhmed",
+        "mobno: ": "01842581717",
+        "NID: ": "1111111111",
+        "email: ": "ahnaf.ahmed.42173@gmail.com",
+        "address: ": "bashundhara R\/A",
+        "dob:": "2022-06-01",
+        "pass: ": "Ahnaf123"
+    },
+    {
+        "fname: ": "",
+        "lname: ": "",
+        "uname: ": "",
+        "mobno: ": "",
+        "NID: ": "",
+        "email: ": "",
+        "address: ": "",
+        "dob:": "",
+        "pass: ": ""
+    },
+    {
+        "fname: ": "",
+        "lname: ": "",
+        "uname: ": "",
+        "mobno: ": "",
+        "NID: ": "",
+        "email: ": "",
+        "address: ": "",
+        "dob:": "",
+        "pass: ": ""
+    },
+    {
+        "fname: ": "",
+        "lname: ": "",
+        "uname: ": "",
+        "mobno: ": "",
+        "NID: ": "",
+        "email: ": "",
+        "address: ": "",
+        "dob:": "",
+        "pass: ": ""
+    },
+    {
+        "fname: ": "",
+        "lname: ": "",
+        "uname: ": "",
+        "mobno: ": "",
+        "NID: ": "",
+        "email: ": "",
+        "address: ": "",
+        "dob:": "",
+        "pass: ": ""
+    },
+    {
+        "fname: ": "Mr ",
+        "lname: ": "Nobody",
+        "uname: ": "mrNobody",
+        "mobno: ": "01311111111",
+        "NID: ": "1212121212",
+        "email: ": "20-42173-1@student.aiub.edu",
+        "address: ": "bashundhara R\/A",
+        "dob:": "2000-02-16",
+        "pass: ": "Mrnobody123"
+    },
+    {
+        "fname: ": "Mr ",
+        "lname: ": "Somebody",
+        "uname: ": "mrSomebody",
+        "mobno: ": "01236547896",
+        "NID: ": "12312312312",
+        "email: ": "mrsomebody@gmail.com",
+        "address: ": "bashundhara R\/A",
+        "dob:": "2022-06-01",
+        "pass: ": "Mrsom123"
+    }
+]
